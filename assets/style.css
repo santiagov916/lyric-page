@@ -3,4 +3,5 @@ html {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    backdrop-filter: blur(5px);
   }
