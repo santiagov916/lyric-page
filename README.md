@@ -31,8 +31,6 @@
   ## Installation 
 
   ### Dependencies: N/A
-  ### To install: npm i OR npm install
-  ### CLI to start: no commands needed
 
   ## Contributors
 
